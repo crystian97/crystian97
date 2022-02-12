@@ -26,7 +26,7 @@ I love study, this is my recent matters that I learning
 
 
 </div>
-<div align="right">
+<div align="left">
 <h4>I have studied: </h4>
 <a href="https://app.daily.dev/crystian97"><img src="https://api.daily.dev/devcards/03bd67ff4210488ba5d70e0453dbce2f.png?r=fn4" width="400" alt="Crystian Veloso's Dev Card"/></a>
 </div>
