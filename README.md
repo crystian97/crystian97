@@ -1,6 +1,6 @@
 
 
-![cover.gif](img/cover.gif)
+![cover.gif](img/cover-git.png)
 
 # 🖖🏻Hey,I'm Crystian Veloso
 
