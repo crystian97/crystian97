@@ -11,7 +11,7 @@
 
 ## 👦🏻About me
 
-I'm an developer jr . I really enjoy keeping up to date in the tech world, I enjoy working as a web programmer and ui /ux.
+I'm an developer that really enjoy keeping up to date in the tech world, I enjoy working as a web programmer and ui /ux.
 
 
 I love study, this is my recent matters that I learning
